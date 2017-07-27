@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">UntroddenLabsDemo</string>
+    <string name="search_hint">Enter song/artist name</string>
+    <string name="internet_error">Please check your network connection</string>
+    <string name="internet_error_msg">Please check your internet connection</string>
+    <string name="string_length_limit">Please enter correct word</string>
+    <string name="progress_message">Please wait, Searching results</string>
+    <string name="api_call_fail">Unable to fetch data</string>
+    <string name="retry">Retry</string>
+    <string name="songtext">Please search your songs/artists here</string>
+    <string name="price">Price:</string>
+    <string name="artistName">Artist:</string>
+    <string name="genre">Genre:</string>
+    <string name="duration">Duration:</string>
+    <string name="collectionPrice">Collection Price:</string>
+    <string name="download">Download</string>
+    <string name="trackCount">TrackCount:</string>
+    <string name="country">Country:</string>
+    <string name="isStreamable">Streamable:</string>
+    <string name="collectionName">Collection Name:</string>
+    <string name="rupee_symbol">\u20B9</string>
+    <string name="downloading">Please wait while we download song</string>
+
+</resources>
+
